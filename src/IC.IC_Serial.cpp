@@ -1,5 +1,5 @@
 /*
-|| @file IC.IC_Serial.h
+|| @file IC.IC_Serial.cpp
 || @version 1.0
 || @author Imesh Chamara
 || @contact imesh1chamara@gmail.com
